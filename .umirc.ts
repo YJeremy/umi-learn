@@ -16,10 +16,10 @@ export default defineConfig({
       "pathRewrite": { "^/api" : "" }
     }
   } */
-  plugins:[
+/*   plugins:[
       'umi-plugin-gh-pages',
 
-  ],
-  base: '/umi-course/',
-  publicPath:'/umi-course/',
+  ], */
+  base: '/umi-learn/',
+  publicPath:'/umi-learn/',
 });
